@@ -1,6 +1,6 @@
 ## 🎩 Introduction
 
-Good morrow! I am known as @dawit-kebebe, a master of the craft of software development, with a particular fondness for the mysteries of backend technologies. My curiosity hath led me to the realms of hacking and electronics, where I have proven my mettle. I have delved into the intricate art of reverse engineering on Android applications, and have emerged victorious in hacking commercial Android applications.
+Good morrow! I am known as Dawit Kebebe, a master of the craft of software development, with a particular fondness for the mysteries of backend technologies. My curiosity hath led me to the realms of hacking and electronics, where I have proven my mettle. I have delved into the intricate art of reverse engineering on Android applications, and have emerged victorious in hacking commercial Android applications.
 
 I am the bearer of numerous certifications and a Bachelor’s parchment in the field of Information Technology. My journey hath seen me collaborate with diverse startups and established guilds, lending my expertise to their technological endeavours.
 
